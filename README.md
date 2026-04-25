@@ -96,9 +96,9 @@ My experience in **Software & System QA** brings unique strengths to AI engineer
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 🌐 GitHub: https://github.com/your-username  
+- 📧 Email: vidhyadhar006@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/vidhyadhar-s-4b78ab211/ 
+- 🌐 GitHub: https://github.com/Vidhyadhar-S/ 
 
 ---
 
